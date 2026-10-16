@@ -1,16 +1,33 @@
-# React + Vite
+# MovieLand
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application for searching and browsing a movie database. The project is built with React and Vite, ensuring high performance and a modern development environment.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The project is available online. You can test the live application here:
 
-## React Compiler
+[Open app on GitHub Pages]
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Preview
 
-## Expanding the ESLint configuration
+![App Preview]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+* Real-time movie search by title.
+* Asynchronous data fetching from an external REST API.
+* Handling of empty search results and network errors.
+* Fully responsive user interface, optimized for both mobile and desktop devices.
+* Modular React component architecture.
+
+## Technologies Used
+
+* **React** - JavaScript library for building user interfaces.
+* **Vite** - Next-generation frontend tooling for fast builds and Hot Module Replacement (HMR).
+* **JavaScript (ES6+)** - Core application logic.
+* **CSS3** - Component styling.
+* **Fetch API** - Server communication and data fetching.
+
+## Author
+
+Created by Wojciech Lichtoń.
