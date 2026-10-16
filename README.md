@@ -4,13 +4,13 @@ A web application for searching and browsing a movie database. The project is bu
 
 ## Live Demo
 
-The project is available online. You can test the live application here:
+You can test the live website here:
 
-[Open app on GitHub Pages]
+
 
 ## Preview
+<img width="1917" height="913" alt="obraz" src="https://github.com/user-attachments/assets/3b6de149-9d69-47a9-b3f2-9fb7b0f6aa97" />
 
-![App Preview]
 
 ## Features
 
